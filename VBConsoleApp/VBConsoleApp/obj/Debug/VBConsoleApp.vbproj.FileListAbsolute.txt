@@ -1,0 +1,3 @@
+C:\ChandData\WorkSpaceCsharp\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.Resources.resources
+C:\ChandData\WorkSpaceCsharp\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.vbproj.GenerateResource.cache
+C:\ChandData\WorkSpaceCsharp\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.vbproj.CoreCompileInputs.cache

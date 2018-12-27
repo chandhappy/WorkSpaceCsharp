@@ -1,0 +1,7 @@
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\bin\Debug\AzureDataCopy.exe.config
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\bin\Debug\AzureDataCopy.exe
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\bin\Debug\AzureDataCopy.pdb
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.csprojAssemblyReference.cache
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.csproj.CoreCompileInputs.cache
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.exe
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.pdb

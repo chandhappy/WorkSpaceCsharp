@@ -1,0 +1,11 @@
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\bin\Debug\netcoreapp2.1\CsharpTut.deps.json
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\bin\Debug\netcoreapp2.1\CsharpTut.runtimeconfig.json
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\bin\Debug\netcoreapp2.1\CsharpTut.runtimeconfig.dev.json
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\bin\Debug\netcoreapp2.1\CsharpTut.dll
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\bin\Debug\netcoreapp2.1\CsharpTut.pdb
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\obj\Debug\netcoreapp2.1\CsharpTut.vbprojAssemblyReference.cache
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\obj\Debug\netcoreapp2.1\CsharpTut.vbproj.CoreCompileInputs.cache
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\obj\Debug\netcoreapp2.1\CsharpTut.AssemblyInfoInputs.cache
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\obj\Debug\netcoreapp2.1\CsharpTut.AssemblyInfo.vb
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\obj\Debug\netcoreapp2.1\CsharpTut.dll
+C:\ChandData\WorkSpaceCsharp\CsharpTut\CsharpTut\obj\Debug\netcoreapp2.1\CsharpTut.pdb

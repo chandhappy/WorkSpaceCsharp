@@ -1,0 +1,10 @@
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\bin\Debug\DemoApp1.exe.config
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\bin\Debug\DemoApp1.exe
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\bin\Debug\DemoApp1.pdb
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csprojAssemblyReference.cache
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.Form1.resources
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.Properties.Resources.resources
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csproj.GenerateResource.cache
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csproj.CoreCompileInputs.cache
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.exe
+C:\ChandData\WorkSpaceCsharp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.pdb

@@ -1,0 +1,7 @@
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\obj\Debug\CsharpTut1.csprojAssemblyReference.cache
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\obj\Debug\CsharpTut1.csproj.CoreCompileInputs.cache
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\bin\Debug\CsharpTut1.exe.config
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\bin\Debug\CsharpTut1.exe
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\bin\Debug\CsharpTut1.pdb
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\obj\Debug\CsharpTut1.exe
+C:\ChandData\WorkSpaceCsharp\CsharpTut1\CsharpTut1\obj\Debug\CsharpTut1.pdb

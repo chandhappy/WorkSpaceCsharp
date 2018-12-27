@@ -1,0 +1,11 @@
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\bin\Debug\VBTut1.exe.config
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\bin\Debug\VBTut1.exe
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\bin\Debug\VBTut1.pdb
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\bin\Debug\VBTut1.xml
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.vbprojAssemblyReference.cache
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.Resources.resources
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.vbproj.GenerateResource.cache
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.vbproj.CoreCompileInputs.cache
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.exe
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.xml
+C:\ChandData\WorkSpaceCsharp\VBTut1\VBTut1\obj\Debug\VBTut1.pdb
