@@ -5,3 +5,4 @@ C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy
 C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.csproj.CoreCompileInputs.cache
 C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.exe
 C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.pdb
+C:\ChandData\WorkSpaceCsharp\AzureDataCopy\AzureDataCopy\obj\Debug\AzureDataCopy.csproj.ResolveComReference.cache
