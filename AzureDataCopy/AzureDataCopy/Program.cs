@@ -12,7 +12,7 @@ namespace AzureDataCopy
         {
             string strCmdText;
             string SourceKey = "nA1XwHsi31dn7nFDnCmiWAdtbADr1DYD5OUn9R3vsZbo3FP2wibVVnlzJ4Q6/ZI01v8YdjLvZ8cycSbJweFISQ==";
-            string DestKey = "u3np+WCtOJYSwawiVpb4hpvmzNfiwPDE92vf97smZWT73WsdtldjrFZpldQa2O4eI9eaSvqZyEGsjCjSV6Lf9A==";
+            string DestKey = "WU1j8mEb42wRPCx1AkRO5Q6Kpnf5GW7CFX6vZEqhjI7oAdKwDTLRxp1mReWU7Qw26au0frrhvfm4N7C99DzI1w==";
 
             //Create COM Objects. Create a COM object for everything that is referenced
             Excel.Application xlApp = new Excel.Application();
@@ -30,11 +30,11 @@ namespace AzureDataCopy
                 //write the value to the console
                 if (xlRange.Cells[i, 1] != null && xlRange.Cells[i, 2] != null && xlRange.Cells[i, 1].Value2 != null && xlRange.Cells[i, 2].Value2 != null) { 
   
-                    strCmdText = null;
-                    strCmdText = "/k cd C:/Program Files (x86)/Microsoft SDKs/Azure/AzCopy" + "& AzCopy /Source:\"" + xlRange.Cells[i, 1].Value2.ToString() + "\" /Dest:\"" + xlRange.Cells[i, 2].Value2.ToString() + "\" /SourceKey:" + SourceKey + " /DestKey:" + DestKey + "  /Y /V:C:/Desktop/testServer/azcopy_" + System.DateTime.Now.ToShortDateString() + ".log";
-                    Console.WriteLine(strCmdText);
-                    //System.Diagnostics.Process.Start("CMD.exe", strCmdText);
-                    System.Threading.Thread.Sleep(8000);
+                    //strCmdText = xlRange.Cells[i, 2].Value2.ToString().Split("/").Last();
+                    strCmdText = "/k cd C:/Program Files (x86)/Microsoft SDKs/Azure/AzCopy" + "& AzCopy /Source:\"" + xlRange.Cells[i, 1].Value2.ToString() + "\" /Dest:\"" + xlRange.Cells[i, 2].Value2.ToString() + "\" /SourceKey:" + SourceKey + " /DestKey:" + DestKey + "  /Y /V:C:/Desktop/testServer/azcopy_"+i+ ".log";
+                   //Console.WriteLine(strCmdText);
+                   System.Diagnostics.Process.Start("CMD.exe", strCmdText);
+                    System.Threading.Thread.Sleep(12000);
                     Array.ForEach(Process.GetProcessesByName("cmd"), x => x.Kill());
                     strCmdText = null;
                 }
@@ -58,7 +58,7 @@ namespace AzureDataCopy
             //quit and release
             xlApp.Quit();
             Marshal.ReleaseComObject(xlApp);
-            Console.ReadKey();
+           // Console.ReadKey();
 
             
         }
